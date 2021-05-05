@@ -1,0 +1,1 @@
+This is a color generator app I did while learning JS .. I never thought I'd build such an interesting app .. If not for Ed I think I would've never made this .. All thanks to him .. I have to admit that every line of JS I know today was taught by him..
